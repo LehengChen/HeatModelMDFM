@@ -99,7 +99,7 @@ curr_path = pathlib.Path(__file__).parent.absolute()
 parent_path = curr_path.parent
 
 if args.test == 1:
-    matlab_path_data = os.path.join(parent_path, "smallDT_discontinuous_cases", "U" + U + "N" + N)
+    matlab_path_data = os.path.join(parent_path, "testdata_discontinuous_cases", "U" + U + "N" + N)
 elif args.test == 2:
     matlab_path_data = os.path.join(parent_path, "testdata_075_085", "U" + U + "N" + N)
 
