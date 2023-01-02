@@ -267,7 +267,7 @@ if __name__ == "__main__":
 
     for train_group_number in train_group:
         # file name of training group number
-        file_path = os.path.join(matlab_data_path, "{}st_init".format(train_group_number))  # 文件路径 *st_init
+        file_path = os.path.join(matlab_data_path, "{}st_init".format(train_group_number))  
         matlab_data_file_names = get_file_with_extension(file_path, ".mat")
         for f in matlab_data_file_names:
             u_0, q_0, Q1D_0, u_1, q_1, Q1D_1, q_2, Q1D_2, u_2, q_3, Q1D_3, u_3, q_4, Q1D_4, u_4, q_5, Q1D_5 = read_data_multi_step(os.path.join(file_path, f), device=device, coarse=args.coarse)
