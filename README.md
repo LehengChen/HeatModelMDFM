@@ -4,7 +4,7 @@ The code are for the paper
 [Modeling Heat Conduction with Two-Dissipative Variables: A Mechanism-Data Fusion Method](https://arxiv.org/abs/2212.11508)
 
 <div  align="center">
-<img src="figures/cdfnet.jpg" width = "70%" />
+<img src="figure/cdfnet.jpg" width = "70%" />
 </div>
 
 # Setup
