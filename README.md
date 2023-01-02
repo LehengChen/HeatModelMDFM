@@ -9,7 +9,7 @@ The code are for the paper
 
 # Setup
 
-All code were developed and tested with Python 3.8, and were implemented by pytorch 1.10.1
+All code were developed and tested with Python 3.8, and were implemented by pytorch 1.10.1.
 
 # Training
 
