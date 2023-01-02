@@ -1,5 +1,5 @@
 # HeatModelMDFM
-The code are for the paper
+The codes are for the paper
 
 [Modeling Heat Conduction with Two-Dissipative Variables: A Mechanism-Data Fusion Method](https://arxiv.org/abs/2212.11508)
 
@@ -9,7 +9,7 @@ The code are for the paper
 
 # Setup
 
-All code were developed and tested with Python 3.8, and were implemented by pytorch 1.10.1.
+All codes were developed and tested with Python 3.8, and were implemented by pytorch 1.10.1.
 
 # Training
 
