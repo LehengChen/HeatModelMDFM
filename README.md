@@ -21,7 +21,7 @@ python train.py
 
 Trained parameters will be stored in directory like `./BTEdataU01N10/net_params_U01N10Coarse1steps1.pkl`.
 
-[Download training and testing data](https://disk.pku.edu.cn:443/link/F5DEE3796EAD835AC69106C3A63EB262) and make your working directory like this:
+[Download training and testing data](https://disk.pku.edu.cn/link/AAF733D3A09571462A9D55C29127541EC6) and make your working directory like this:
 
 ```
 traindata/
